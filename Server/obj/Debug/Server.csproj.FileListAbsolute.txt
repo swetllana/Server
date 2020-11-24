@@ -1,0 +1,13 @@
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\bin\Debug\Server.exe.config
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\bin\Debug\Server.exe
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\bin\Debug\Server.pdb
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.FrmServer.resources
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.Properties.Resources.resources
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.exe
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.pdb
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\bin\Debug\Newtonsoft.Json.dll
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\bin\Debug\Newtonsoft.Json.xml
+G:\university\Second year\Autumn trimester\Information and comunnication security\Project\Server\Server\obj\Debug\Server.csproj.CopyComplete
